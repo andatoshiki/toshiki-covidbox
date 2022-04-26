@@ -1,0 +1,9 @@
+name: COVID-Box
+description: 🦠 Update a gist to contain global or country specific coronavirus stats
+author: puf17640
+branding:
+  color: green
+  icon: refresh-cw
+runs:
+  using: docker
+  image: Dockerfile
