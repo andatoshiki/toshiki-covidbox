@@ -2,7 +2,7 @@ name: COVID Box
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/30 * * * *'
 
 jobs:
   build:
